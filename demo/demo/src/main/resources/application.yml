@@ -3,9 +3,9 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://54.180.8.58/league_of_legends?useSSL=false&allowPublicKeyRetrieval=true&useUnicode=true&serverTimezone=Asia/Seoul
-    username: test_user
-    password: ENC(WjhVMdlNaZJ1JpuNP5z4x1rAHa8bhZSj)
+    url: ENC(nmLroK5W9zNTXDvrYHJUtsZ58xjPsVbaTGgvi5AkS2R7O2nmTQIdHafxDHU32TOYcj4Oh308RNpXR6C4TuCVzjoovqK/sz2zGMY0mVKiGEGmiEVi2r/mBURbe9FbT86PVznXt/H6SvSPiG1M/X6LXyXC6sBgCjRzmzNL9iM9TLFPkr5u3nCY+w==)
+    username: ENC(Wuqf35UAUzAu4vltfelb+pU/oqmT1l0Y)
+    password: ENC(DbcKldSpdlPhlLCwdTeC0TQDttLB5su4)
   jpa:
     show-sql: true
     hibernate:
